@@ -34,3 +34,5 @@ true
 19 --> 19
 20 --> buzz`
 ```	
+## Running tests ##
+`rspec`
